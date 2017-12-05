@@ -1,5 +1,5 @@
 #!/bin/bash
 
 echo
-echo "Hello, world"
+echo "I am Git!"
 echo
